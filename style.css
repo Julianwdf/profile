@@ -76,3 +76,8 @@ a:hover {
     width: 300px;
   }
 }
+
+#julian_img {
+  position: relative;
+  left: 200px;
+}
