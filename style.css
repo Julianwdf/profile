@@ -25,6 +25,7 @@ a:hover {
   border-radius: 15px;
   box-shadow: 5px 10px #888888;
   padding: 30px;
+  margin: 30px;
 }
 
 .img-circle {
